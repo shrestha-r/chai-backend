@@ -1,0 +1,23 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "production level backend with chai aur code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrestha-r/chai-backend.git"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrestha-r/chai-backend/issues"
+  },
+  "homepage": "https://github.com/shrestha-r/chai-backend#readme",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
